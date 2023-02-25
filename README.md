@@ -99,8 +99,7 @@ Create a .env file in the server folder with three variables
 - [x] Interact with Posts 
 - [x] Post Pictures
 - [x] Add/Delete Friends
-- [] Search Functionality
-
+- [ ] Search Bar Functionality
 
 See the [open issues](https://github.com/holliskuang/FriendSpace/issues) for a full list of proposed features (and known issues).
 
