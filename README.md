@@ -47,14 +47,15 @@ This app is split into a client and a server. These are currently set up to run 
    ```sh
    npm install
    ```
-3. Configure App for your personal use
+3. Configure App for your personal use:  Create a .env file in the server folder with following three variables
+
+<p>
 <ul>
-Create a .env file in the server folder with three variables
 <li>PORT: " " // Designate a Port Variable to the port of your choice</li>
 <li>MONGO_URL:" "  // Connect the App to your MongoDB cluster </li>
 <li>JWT_SECRET:" " // Generate a JWT Secret Token for verification purposes </li>
 </ul>
-   
+   </p>
    
 4. Move from root folder into server folder from the root folder and start ther proccess
    ```sh
