@@ -1,6 +1,7 @@
 # FriendSpace <img src='https://res.cloudinary.com/dd97ovnmi/image/upload/v1677131194/friends_irkpgb.png' width=40px height=40px style="margin-left:5px"> 
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
     <img style='border:1px solid black' src="https://res.cloudinary.com/dd97ovnmi/image/upload/v1677113683/chrome_zKY7exhAMr_mdzad1.jpg" >
